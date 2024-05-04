@@ -1,6 +1,8 @@
+%% This code is used to transfer radiation pattern data from spherical coordinate(2d matrix: phi,theta) to UV plot
 %% Data requirement : theta and phi should be situated in [-180 180]
 %% The data matrix is (phi)181 X (theta)91, the step is 2 degree
-%% run 'clear all' in command window before import new data
+%% run 'clear all' in command window before importing new data
+%% Created by Feiyu Shan. 05/04/2024
 
 clc;
 
